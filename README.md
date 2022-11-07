@@ -15,7 +15,7 @@ The TensorFlow Developer Professional Certificate contains 4 courses
 
 `Computer Vision`, `Convolutional Neural Network`, `Machine Learning`, `Natural Language Processing`, `Tensorflow`, `Inductive Transfer`, `Augmentation`, `Dropouts`, `Tokenization`, `RNNs`, `Forecasting`, `Time Series`
 
-## Why this Specialization?
+## About this Specialization
 
 TensorFlow is one of the most in-demand and popular open-source deep learning frameworks available today. The DeepLearning.AI TensorFlow Developer Professional Certificate program teaches you applied machine learning skills with TensorFlow so you can build and train powerful models. 
 
